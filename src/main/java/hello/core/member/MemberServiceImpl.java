@@ -10,7 +10,7 @@ public class MemberServiceImpl implements MemberService{
     private final MemberRepository memberRepository;
 
 //    @Autowired
-//    public MemberServiceImpl(MemberRepository memberRepository) {
+//    public MemberServiceImpl(@MainDiscountPolicy MemberRepository memberRepository) {
 //        this.memberRepository = memberRepository;
 //    }
 
